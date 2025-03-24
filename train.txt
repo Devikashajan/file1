@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 dddddddddddddddddd
 jjjjjjjjjjjjjjjjjjjjjjj
 oooooooooooooooo
 pppppppppppppp
 lllllllllllll
+=======
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+oooooooooooooooooooooo
+ppppppppppppppppp
+iiiiiiiiiiiiiis
+>>>>>>> sampleproject
